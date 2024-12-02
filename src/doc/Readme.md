@@ -1,0 +1,75 @@
+
+
+
+# Data Structures and Algorithms
+- Getting started with algorithms.
+  - Fizz Buzz Problem
+- Algorithms Complexity
+  - O analysis
+- Trees
+  - Tree representation
+  - Check two binary trees are equal
+  - Binary Search Trees
+  - Check tree is BST or not
+  - Binary Tree traversal (Pre-order, Inorder and Post Order)
+  - Lowest common ancestor of Binary Tree
+- Graphs
+  - Sorting Graphs (Adjacency Matrix and Adjacency List)
+  - Topological Sort
+  - Detecting Cycle in directed graph using Dept First Traversal
+  - Thorup's Algorithm
+  - Dept first search
+- Dijkstra's Algorithm
+- A* Path finding
+  - path finding in maze using no obstacles
+  - 8 puzzle problem using A*
+- Dynamic Programming
+  - Edit Distance
+  - Weighted Job Scheduling Algorithms
+  - Longest Common Subsequence
+  - Fibonacci Number
+  - Longest Common Substring
+- Kruskal's Algorithm
+  - Optimal disjoint set based implementation 
+- Greedy Algorithms
+  - Huffman Coding
+  - Activity Selection Problem
+  - Change making problem
+- Applications of Greedy Algorithms
+  - Offline Caching
+  - Ticket Automata
+  - Interval Scheduling
+  - Minimizing Lateness
+- Prim Algorithm
+- Bellman Ford Algorithm
+- Line Algorithm
+  - Bresenham Line Drawing Algorithm
+- Floyd warshall Algorithm
+- Catalan Number Algorithm
+- Knuth Morris Pratt Algorithm
+- Paging (Offline Caching)
+- Sorting
+  - Bubble Sort
+  - Merge Sort
+  - Insertion Sort
+  - Bucket Sort
+  - Quick Sort
+  - Counting Sort
+  - Heap Sort
+  - Cycle Sort
+  - Odd-Even Sort
+  - Selection Sort
+- Searching
+  - Binary Search
+  - Rabin Karp Search
+  - Linear Search
+  - Depth First Search
+- Hash Functions
+- Travelling Salesman
+- Knapsack Problem
+- Equation Solving
+- Check Two Strings are anagrams
+- Pascals Triangle
+- Fast Fourier Transforms
+  - Radix 2 FFT
+  - Radix 2 Inverse FFT
